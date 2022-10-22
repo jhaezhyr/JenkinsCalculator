@@ -5,7 +5,7 @@ class Calculator {
     Calculator(){
 
     }
-    awdfulf l kdj
+
     int add(int a , int b){
         return a + b;
     }
